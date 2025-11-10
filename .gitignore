@@ -13,3 +13,4 @@ dist/
 .next/
 .vercel/
 *.log
+.env
