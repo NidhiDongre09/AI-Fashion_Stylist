@@ -1,0 +1,15 @@
+# Ignore environment and system files
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Node & frontend stuff
+node_modules/
+build/
+dist/
+.next/
+.vercel/
+*.log
